@@ -1,9 +1,0 @@
-{
-    "function_1": [
-        "no_op",
-        "vgg_block_3x3", "vgg_block_5x5",
-        "resnet_block_3x3", "resnet_block_5x5",
-        "inception_block_3x3", "inception_block_5x5",
-        "densenet_block_3x3", "densenet_block_5x5"
-    ]
-}
