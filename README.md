@@ -13,7 +13,7 @@ First, install PyTorch, torchvision, and torchaudio using the official command t
 
 Run this command in your terminal:
 ```bash
-pip install torch torchvision torchaudio --index-url [https://download.pytorch.org/whl/cu121](https://download.pytorch.org/whl/cu121)
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
 
 #### **Step 2: Create and use the `requirements.txt` file**
