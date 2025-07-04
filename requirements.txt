@@ -1,0 +1,11 @@
+# requirements.txt
+
+# TensorFlow compatible con CUDA 12.2 y cuDNN 8.9
+tensorflow==2.15.0
+
+# Librerías estándar de Machine Learning y visualización
+scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
